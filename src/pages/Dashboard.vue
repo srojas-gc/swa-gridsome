@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <h1>Dashboard</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
+    <p>Probando ajustes de código para verificar el deploy automatico con amplify. Esta es una simple prueba para hacer un chequeo inicial de la app.</p>
   </Layout>
 </template>
 
